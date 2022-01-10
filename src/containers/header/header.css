@@ -36,7 +36,7 @@
 .gpt3__header-content__input input {
   flex: 2;
   width: 100%;
-  min-height: 50px;
+  min-height: 65px;
   background: var(--color-footer);
   border-radius: 5px 0px 0px 5px;
   font-family: var(--font-family);
@@ -137,6 +137,7 @@
   .gpt3__header-content__input input,
   .gpt3__header-content__input button {
     font-size: 16px;
+    min-height: 50px;
     line-height: 24px;
   }
 }
