@@ -42,6 +42,14 @@
   color: var(--color-text);
 }
 
+@media screen and (min-width: 1600px) {
+  .gpt3__features-container_feature-text {
+    max-width: 1300px;
+    display: flex;
+    margin-right: 4rem;
+  }
+}
+
 @media screen and (max-width: 550px) {
   .gpt3__features-container_feature-title h1 {
     font-size: 14px;
