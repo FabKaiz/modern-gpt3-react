@@ -72,7 +72,7 @@
   }
 }
 
-.gpt3__whatgpt3-container .gpt3__features-container__feature {
+.gpt3__whatgpt3-container .gpt3__features-container_feature {
   flex: 1;
   margin: 1rem;
   min-width: 210px;
@@ -85,7 +85,7 @@
 }
 
 @media screen and (max-width: 650px) {
-  .gpt3__whatgpt3-feature .gpt3__features-container__feature {
+  .gpt3__whatgpt3-feature .gpt3__features-container_feature {
       flex-direction: column;
   }
 
@@ -99,9 +99,15 @@
   }
 }
 
+@media screen and (max-width: 550px) {
+  .gpt3__whatgpt3-container .gpt3__features-container_feature {
+    margin: 1rem 0;
+  }
+}
+
 @media screen and (max-width: 350px) {
   /* Customizing feature component as per needs */
-  .gpt3__whatgpt3-container .gpt3__features-container__feature {
+  .gpt3__whatgpt3-container .gpt3__features-container_feature {
       margin: 1rem 0;
       min-width: 100%;
   }
