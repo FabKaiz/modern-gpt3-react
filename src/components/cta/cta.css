@@ -1,5 +1,4 @@
 .gpt3__cta {
-  font-family: var(--font-family);
   color: #000000;
   display: flex;
   justify-content: space-between;
@@ -15,7 +14,6 @@
 }
 
 .gpt3__cta-content p {
-  font-family: var(--font-family);
   font-weight: 500;
   font-size: 13px;
   line-height: 30px;
@@ -23,7 +21,6 @@
 }
 
 .gpt3__cta-content h3 {
-  font-family: var(--font-family);
   font-weight: 800;
   font-size: 24px;
   line-height: 45px;
@@ -40,7 +37,6 @@
   background: #000000;
   color: #FFFFFF;
   border-radius: 40px;
-  font-family: var(--font-family);
   font-weight: bold;
   font-size: 18px;
   line-height: 30px;
