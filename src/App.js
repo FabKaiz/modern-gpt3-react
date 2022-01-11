@@ -10,13 +10,12 @@ function App() {
         <Header />
       </div>
       <Brand />
-
       <div className="gradient__bg-middle">
         <WhatGPT3 />
         <Features />
         <Possibility />
+        <CTA />
       </div>
-      <CTA />
       <Blog />
       <Footer />
     </div>
