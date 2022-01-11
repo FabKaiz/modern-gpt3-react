@@ -1,5 +1,5 @@
 # Modern gpt3 website style 💻✨  
-Result :  🛠️ Work in Progress 🛠️
+Result : [HERE](https://gpt3-modern-react.netlify.app/)👈👀
 
 ## Getting Started
 
