@@ -1,5 +1,7 @@
 # Modern gpt3 website style 💻✨  
-Result : [HERE](https://gpt3-modern-react.netlify.app/)👈👀
+- #### Result : [HERE](https://gpt3-modern-react.netlify.app/)👈👀
+- The figma file: [HERE](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3)  
+
 
 ## Getting Started
 
